@@ -10,6 +10,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS Icon" width="70" height="70" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1200px-JQuery_logo.svg.png" alt="Jquery Icon" width="70" height="70" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Icon" width="70" height="70" />
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Icon" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="70" height="70" />
