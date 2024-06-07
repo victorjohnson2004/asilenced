@@ -21,5 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Web API Icon" width="70" height="70" />
   <img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3 Icon" width="70" height="70" />
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum Icon" width="70" height="70" />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-s3.svg" alt="AWS Icon" width="70" height="70" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256" alt="AWS Icon" width="70" height="70" />
 </div>
