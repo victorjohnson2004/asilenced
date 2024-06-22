@@ -1,4 +1,4 @@
-# My GitHub Profile
+# Senior Full Stack and Blockchain Developer
 
 ## Technologies I Work With
 
