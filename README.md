@@ -1,4 +1,4 @@
-# Senior Full Stack and Blockchain Developer
+# Senior Full Stack and Blockchain Engineer
 
 ## Technologies I Work With
 
